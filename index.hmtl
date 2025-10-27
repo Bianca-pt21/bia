@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Bia — Portfólio</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>Bia</h1>
+      <nav>
+        <a href="#sobre">Sobre</a>
+        <a href="#projetos">Projetos</a>
+        <a href="#contato">Contato</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="hero" class="container">
+      <img src="assets/foto-sem-rosto.jpg" alt="Foto sem rosto" class="perfil" />
+      <div>
+        <h2>Olá — eu sou a Bia, 16 anos</h2>
+        <p>Iniciante em programação — HTML, CSS e JavaScript. Aqui estão meus projetos.</p>
+        <a class="btn" href="#projetos">Ver projetos</a>
+      </div>
+    </section>
+
+    <section id="sobre" class="container">
+      <h3>Sobre</h3>
+      <p>Estudante e desenvolvedora iniciante. Gosto de criar páginas limpas e funcionais.</p>
+      <ul>
+        <li>HTML • CSS • JavaScript</li>
+      </ul>
+    </section>
+
+    <section id="projetos" class="container">
+      <h3>Projetos</h3>
+      <div class="grid">
+        <!-- Projeto 1 -->
+        <article class="card">
+          <img src="assets/projetos/proj1.png" alt="Projeto 1">
+          <h4>Site pessoal</h4>
+          <p>Site responsivo com HTML e CSS.</p>
+          <a href="https://github.com/Bianca-pt21/projeto-site" target="_blank">Ver no GitHub</a>
+        </article>
+
+        <!-- Projeto 2 -->
+        <article class="card">
+          <img src="assets/projetos/proj2.png" alt="Projeto 2">
+          <h4>To-Do List</h4>
+          <p>Lista de tarefas com JavaScript.</p>
+          <a href="https://github.com/Bianca-pt21/projeto-todo" target="_blank">Ver no GitHub</a>
+        </article>
+      </div>
+    </section>
+
+    <section id="contato" class="container">
+      <h3>Contato</h3>
+      <p>Quer falar comigo? Envie um e-mail:</p>
+      <p><a href="mailto:biasantss902@gmail.com">biasantss902@gmail.com</a></p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© Bia — Portfólio</p>
+    </div>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
