@@ -37,7 +37,7 @@
 
 ## 🌈 Conecte-se comigo
 📧 **E-mail:** [biasantss902@gmail.com](mailto:biasantss902@gmail.com)  
-💻 **Portfólio Online:** _(em breve!)_
+💻 **Portfólio Online:** _(https://bianca-pt21.github.io/bia/)_
 
 ---
 
