@@ -7,20 +7,58 @@
   <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
 </p>
 
-# 👋 Oi, eu sou a Bianca!
+<h1 align="center">👋 Oi, eu sou a Bianca!</h1>
 
-💙 Tenho 16 anos e sou **iniciante em TI e programação**, apaixonada por aprender e criar projetos com código.
+<p align="center">
+  💙 Tenho 16 anos e sou <b>iniciante em TI e programação</b>.<br>
+  📘 Apaixonada por tecnologia, criatividade e resolver problemas com código.<br>
+  🚀 Busco crescer como <b>desenvolvedora front-end</b> e construir projetos incríveis!
+</p>
 
-## 🚀 Tecnologias que estou aprendendo:
-- HTML, CSS e JavaScript  
-- Git e GitHub  
-- Criação de sites e portfólios  
+---
 
-## 💻 Meus projetos:
-- 🧮 [Calculadora](https://bianca-pt21.github.io/Calculadora/)  
-- 📝 [Lista de Tarefas (To-Do List)](https://bianca-pt21.github.io/To-do-list/)  
+### 💡 Sobre mim
+- 🎓 Estudando **HTML, CSS e JavaScript**
+- 💻 Criando meus primeiros projetos no GitHub
+- 📈 Focada em melhorar meu portfólio e aprender cada vez mais
+- 🎯 Objetivo: Trabalhar com **desenvolvimento web**
 
-## 🌱 Objetivo:
-Continuar estudando programação e construir uma carreira na área de **desenvolvimento web**.
+---
 
-📫 **Contato:** [biasantss902@gmail.com](mailto:biasantss902@gmail.com)
+### 🛠️ Tecnologias que estou aprendendo
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,github,git,vscode" />
+
+</div>
+
+---
+
+### 🚀 Meus Projetos
+
+| 💻 Projeto | 🔗 Link | 📝 Descrição |
+|-------------|---------|--------------|
+| 🧮 **Calculadora** | [Acessar](https://bianca-pt21.github.io/Calculadora/) | Uma calculadora simples feita com HTML, CSS e JavaScript. |
+| 📝 **Lista de Tarefas (To-Do List)** | [Acessar](https://bianca-pt21.github.io/to-do-list/) | Um aplicativo para gerenciar tarefas do dia a dia. |
+| 🌐 **Meu Portfólio** | [Acessar](https://bianca-pt21.github.io/bia/) | Meu site pessoal com informações, projetos e contato. |
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bianca-pt21&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca-pt21&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 📫 Contato
+📧 **E-mail:** [biasantss902@gmail.com](mailto:biasantss902@gmail.com)  
+💼 **GitHub:** [github.com/Bianca-pt21](https://github.com/Bianca-pt21)
+
+---
+
+<p align="center">
+  Feito com 💙 por <b>Bianca</b> — Estudante e futura desenvolvedora 🚀
+</p>
