@@ -18,7 +18,7 @@
 
 ## 💻 Meus projetos:
 - 🧮 [Calculadora](https://bianca-pt21.github.io/Calculadora/)  
-- 📝 [Lista de Tarefas (To-Do List)](https://bianca-pt21.github.io/to-do-list/)  
+- 📝 [Lista de Tarefas (To-Do List)](https://bianca-pt21.github.io/To-do-list/)  
 
 ## 🌱 Objetivo:
 Continuar estudando programação e construir uma carreira na área de **desenvolvimento web**.
