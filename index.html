@@ -4,69 +4,94 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Bia — Portfólio</title>
-  <link rel="stylesheet" href="css/styles.css" />
+  <meta name="description" content="Portfólio da Bia — desenvolvedora iniciante em HTML, CSS e JavaScript.">
+  <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
-  <header class="site-header">
-    <div class="container">
-      <h1>Bia</h1>
-      <nav>
-        <a href="#sobre">Sobre</a>
-        <a href="#projetos">Projetos</a>
-        <a href="#contato">Contato</a>
-      </nav>
+  <header class="hero" role="banner" aria-label="Banner principal">
+    <div class="overlay">
+      <div class="hero-inner">
+        <div class="hero-text">
+          <h1>Bia</h1>
+          <p class="subtitle">Desenvolvedora Iniciante em HTML, CSS e JavaScript</p>
+          <div class="cta">
+            <a href="#projetos" class="btn">Ver projetos</a>
+            <a href="#contato" class="btn ghost">Contato</a>
+          </div>
+        </div>
+        <img class="hero-avatar" src="assets/foto-sem-rosto.jpg" alt="Foto sem rosto de Bia" />
+      </div>
     </div>
   </header>
 
   <main>
-    <section id="hero" class="container">
-      <img src="assets/foto-sem-rosto.jpg" alt="Foto sem rosto" class="perfil" />
-      <div>
-        <h2>Olá — eu sou a Bia, 16 anos</h2>
-        <p>Iniciante em programação — HTML, CSS e JavaScript. Aqui estão meus projetos.</p>
-        <a class="btn" href="#projetos">Ver projetos</a>
-      </div>
-    </section>
-
     <section id="sobre" class="container">
-      <h3>Sobre</h3>
-      <p>Estudante e desenvolvedora iniciante. Gosto de criar páginas limpas e funcionais.</p>
-      <ul>
-        <li>HTML • CSS • JavaScript</li>
+      <h2>Sobre</h2>
+      <p>Oi! Eu sou a <strong>Bia</strong>, 16 anos, iniciante em desenvolvimento web. Gosto de criar páginas limpas, responsivas e aprender novas tecnologias. Estou focando em front-end: HTML, CSS e JavaScript.</p>
+      <ul class="skills">
+        <li>HTML5</li>
+        <li>CSS3 (Flexbox / Grid / Responsividade)</li>
+        <li>JavaScript (DOM, ES6)</li>
+        <li>Git & GitHub</li>
       </ul>
     </section>
 
     <section id="projetos" class="container">
-      <h3>Projetos</h3>
-      <div class="grid">
-        <!-- Projeto 1 -->
+      <h2>Projetos</h2>
+      <p class="muted">Clique em um projeto para ver o repositório.</p>
+      <div class="grid projects">
+        <!-- Projeto exemplo - substitua os links e imagens -->
         <article class="card">
-          <img src="assets/projetos/proj1.png" alt="Projeto 1">
-          <h4>Site pessoal</h4>
-          <p>Site responsivo com HTML e CSS.</p>
-          <a href="https://github.com/Bianca-pt21/projeto-site" target="_blank">Ver no GitHub</a>
+          <img src="assets/projetos/proj1.png" alt="Thumb do projeto site pessoal" onerror="this.style.display='none'">
+          <div class="card-body">
+            <h3>Site Pessoal</h3>
+            <p>Site responsivo apresentando meu portfólio e contato.</p>
+            <a class="small-link" href="https://github.com/Bianca-pt21/bia" target="_blank" rel="noopener">Ver no GitHub</a>
+          </div>
         </article>
 
-        <!-- Projeto 2 -->
         <article class="card">
-          <img src="assets/projetos/proj2.png" alt="Projeto 2">
-          <h4>To-Do List</h4>
-          <p>Lista de tarefas com JavaScript.</p>
-          <a href="https://github.com/Bianca-pt21/projeto-todo" target="_blank">Ver no GitHub</a>
+          <img src="assets/projetos/proj2.png" alt="Thumb do projeto To-Do" onerror="this.style.display='none'">
+          <div class="card-body">
+            <h3>To-Do List</h3>
+            <p>Lista de tarefas com adição, remoção e persistência local.</p>
+            <a class="small-link" href="#" target="_blank" rel="noopener">Ver no GitHub</a>
+          </div>
+        </article>
+
+        <article class="card">
+          <img src="assets/projetos/proj3.png" alt="Thumb do projeto calculadora" onerror="this.style.display='none'">
+          <div class="card-body">
+            <h3>Calculadora</h3>
+            <p>Calculadora funcional feita com JavaScript puro.</p>
+            <a class="small-link" href="#" target="_blank" rel="noopener">Ver no GitHub</a>
+          </div>
         </article>
       </div>
     </section>
 
-    <section id="contato" class="container">
-      <h3>Contato</h3>
-      <p>Quer falar comigo? Envie um e-mail:</p>
-      <p><a href="mailto:biasantss902@gmail.com">biasantss902@gmail.com</a></p>
+    <section id="contato" class="container contact">
+      <h2>Contato</h2>
+      <p>Me mande um e-mail ou visite meu GitHub.</p>
+      <p><a href="mailto:biasantss902@gmail.com">biasantss902@gmail.com</a> • <a href="https://github.com/Bianca-pt21" target="_blank" rel="noopener">github.com/Bianca-pt21</a></p>
+      <form id="contactForm" aria-label="Formulário de contato">
+        <label>
+          <span>Nome</span>
+          <input type="text" name="name" placeholder="Seu nome" required>
+        </label>
+        <label>
+          <span>Mensagem</span>
+          <textarea name="message" placeholder="Escreva uma mensagem" required></textarea>
+        </label>
+        <button type="submit" class="btn">Enviar (envia para o email)</button>
+        <p class="note">* Este formulário usa um fallback que abre o email (sem backend).</p>
+      </form>
     </section>
   </main>
 
   <footer class="site-footer">
     <div class="container">
-      <p>© Bia — Portfólio</p>
+      <p>© <span id="year"></span> Bia — Desenvolvedora Iniciante • Feito com ❤️</p>
     </div>
   </footer>
 
