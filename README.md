@@ -1,4 +1,4 @@
-<h1 align="center">💙 Bia — Desenvolvedora Iniciante 💻</h1>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" />
@@ -7,38 +7,43 @@
   <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
 </p>
 
----
+# 👋 Olá, eu sou a Bianca!
 
-### 🌈 Sobre mim
-Oi! Eu sou a **Bia**, tenho 16 anos e estou começando minha jornada no mundo da **tecnologia e programação**.  
-Gosto de criar sites e aprender novas linguagens. Meu foco atual é em **HTML, CSS e JavaScript** — mas quero evoluir e aprender muito mais! 🚀
-
----
-
-### 🧩 Tecnologias que estou aprendendo
-- 🌐 **HTML5** — estrutura das páginas
-- 🎨 **CSS3** — estilização e design
-- ⚡ **JavaScript** — interatividade e lógica
-- 🧠 **Git & GitHub** — controle de versões e portfólio
+💻 Tenho 16 anos e estou começando minha jornada na área de **programação e tecnologia**.  
+🚀 Apaixonada por aprender coisas novas e transformar ideias em projetos reais.  
+🎯 Atualmente estudando **HTML, CSS e JavaScript** para desenvolver sites e aplicações web.
 
 ---
 
-### 💼 Projetos
-🔹 [Portfólio Pessoal](https://bianca-pt21.github.io/bia/) — Meu site com informações e contatos  
-🔹 Calculadora Simples *(em breve)*  
-🔹 Lista de Tarefas *(em breve)*  
+## 🧠 O que estou aprendendo
+- 🌐 HTML5 e CSS3 — estrutura e estilo de páginas web  
+- ⚡ JavaScript — interatividade e lógica de programação  
+- 💾 Git e GitHub — versionamento e portfólio de projetos  
 
 ---
 
-### 📫 Contato
-📧 **biasantss902@gmail.com**  
-💻 [Meu GitHub](https://github.com/Bianca-pt21)
+## 📂 Meus Projetos
+💡 Aqui estão alguns dos projetos que estou desenvolvendo:
+
+| Projeto | Descrição | Tecnologias |
+|----------|------------|--------------|
+| 🌸 **Portfólio Pessoal** | Meu site com informações sobre mim e meus contatos | HTML, CSS |
+| 🧮 **Calculadora Simples** | Uma calculadora feita com JavaScript | HTML, CSS, JS |
+| ✅ **Lista de Tarefas** | Aplicativo para organizar atividades do dia | HTML, CSS, JS |
+
+*(Mais projetos em breve!)*
 
 ---
 
-### 🌟 “Cada linha de código é um passo rumo aos meus sonhos.” 🌟
+## 🌈 Conecte-se comigo
+📧 **E-mail:** [biasantss902@gmail.com](mailto:biasantss902@gmail.com)  
+💻 **Portfólio Online:** _(em breve!)_
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/4b/91/da/4b91da5a7d8d1edbdf2a561f0c0626f8.gif" width="250"/>
-</p>
+---
 
+## 💬 Frase que me representa
+> “O segredo do sucesso é começar antes de estar pronto.” — Marie Forleo
+
+---
+
+⭐ Se gostou do meu perfil, me siga para acompanhar minha evolução no mundo da programação!
