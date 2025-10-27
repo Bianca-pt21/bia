@@ -7,43 +7,20 @@
   <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
 </p>
 
-# 👋 Olá, eu sou a Bianca!
+# 👋 Oi, eu sou a Bianca!
 
-💻 Tenho 16 anos e estou começando minha jornada na área de **programação e tecnologia**.  
-🚀 Apaixonada por aprender coisas novas e transformar ideias em projetos reais.  
-🎯 Atualmente estudando **HTML, CSS e JavaScript** para desenvolver sites e aplicações web.
+💙 Tenho 16 anos e sou **iniciante em TI e programação**, apaixonada por aprender e criar projetos com código.
 
----
+## 🚀 Tecnologias que estou aprendendo:
+- HTML, CSS e JavaScript  
+- Git e GitHub  
+- Criação de sites e portfólios  
 
-## 🧠 O que estou aprendendo
-- 🌐 HTML5 e CSS3 — estrutura e estilo de páginas web  
-- ⚡ JavaScript — interatividade e lógica de programação  
-- 💾 Git e GitHub — versionamento e portfólio de projetos  
+## 💻 Meus projetos:
+- 🧮 [Calculadora](https://bianca-pt21.github.io/Calculadora/)  
+- 📝 [Lista de Tarefas (To-Do List)](https://bianca-pt21.github.io/to-do-list/)  
 
----
+## 🌱 Objetivo:
+Continuar estudando programação e construir uma carreira na área de **desenvolvimento web**.
 
-## 📂 Meus Projetos
-💡 Aqui estão alguns dos projetos que estou desenvolvendo:
-
-| Projeto | Descrição | Tecnologias |
-|----------|------------|--------------|
-| 🌸 **Portfólio Pessoal** | Meu site com informações sobre mim e meus contatos | HTML, CSS |
-| 🧮 **Calculadora Simples** | Uma calculadora feita com JavaScript | HTML, CSS, JS |
-| ✅ **Lista de Tarefas** | Aplicativo para organizar atividades do dia | HTML, CSS, JS |
-
-*(Mais projetos em breve!)*
-
----
-
-## 🌈 Conecte-se comigo
-📧 **E-mail:** [biasantss902@gmail.com](mailto:biasantss902@gmail.com)  
-💻 **Portfólio Online:** _(https://bianca-pt21.github.io/bia/)_
-
----
-
-## 💬 Frase que me representa
-> “O segredo do sucesso é começar antes de estar pronto.” — Marie Forleo
-
----
-
-⭐ Se gostou do meu perfil, me siga para acompanhar minha evolução no mundo da programação!
+📫 **Contato:** [biasantss902@gmail.com](mailto:biasantss902@gmail.com)
