@@ -41,7 +41,8 @@
 | 🧮 **Calculadora** | [Acessar](https://bianca-pt21.github.io/Calculadora/) | Uma calculadora simples feita com HTML, CSS e JavaScript. |
 | 📝 **Lista de Tarefas (To-Do List)** | [Acessar](https://bianca-pt21.github.io/To-do-list/) | Um aplicativo para gerenciar tarefas do dia a dia. |
 | 🌐 **Meu Portfólio** | [Acessar](https://bianca-pt21.github.io/bia/) | Meu site pessoal com informações, projetos e contato. |
-
+| 📊 **Dashboard pessoal** | [Acessar](https://bianca-pt21.github.io/bia/) | Meu site pessoal com informações, projetos e contato. |
+| 💫 **Gerador de frases motivadorasl** | [Acessar](https://bianca-pt21.github.io/bia/) | Meu site pessoal com informações, projetos e contato. |
 ---
 
 ### 📊 Estatísticas do GitHub
